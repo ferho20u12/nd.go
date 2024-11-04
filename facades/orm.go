@@ -1,7 +1,7 @@
 package facades
 
 import (
-	"framework-back/nucleo-de-diagnostico/database"
+	"github.com/ferho20u12/nd.go/database"
 
 	"gorm.io/gorm"
 )

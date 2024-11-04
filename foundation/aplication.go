@@ -1,7 +1,7 @@
 package foundation
 
 import (
-	"framework-back/nucleo-de-diagnostico/configuration"
+	"github.com/ferho20u12/nd.go/configuration"
 )
 
 var (

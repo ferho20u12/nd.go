@@ -13,7 +13,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	providerContract "framework-back/nucleo-de-diagnostico/contracts/providers"
+	providerContract "github.com/ferho20u12/nd.go/contracts/providers"
 
 	"github.com/gookit/color"
 	"golang.org/x/image/draw"

@@ -6,9 +6,9 @@ import (
 	"reflect"
 	"strings"
 
-	"framework-back/nucleo-de-diagnostico/database"
-	"framework-back/nucleo-de-diagnostico/helpers/structaudit"
-	"framework-back/nucleo-de-diagnostico/responses"
+	"github.com/ferho20u12/nd.go/database"
+	"github.com/ferho20u12/nd.go/helpers/structaudit"
+	"github.com/ferho20u12/nd.go/responses"
 
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"

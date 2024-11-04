@@ -1,4 +1,4 @@
-module bitbucket.org/desarrollond/framework-back
+module github.com/ferho20u12/nd.go
 
 go 1.18
 

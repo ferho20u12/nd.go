@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	middlewareContract "framework-back/nucleo-de-diagnostico/contracts/middlewares"
-	routerContract "framework-back/nucleo-de-diagnostico/contracts/router"
-	"framework-back/nucleo-de-diagnostico/foundation"
+	middlewareContract "github.com/ferho20u12/nd.go/contracts/middlewares"
+	routerContract "github.com/ferho20u12/nd.go/contracts/router"
+	"github.com/ferho20u12/nd.go/foundation"
 
 	"github.com/gookit/color"
 	"github.com/mattn/go-colorable"

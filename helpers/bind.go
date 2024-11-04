@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"strings"
 
-	"framework-back/nucleo-de-diagnostico/foundation"
+	"github.com/ferho20u12/nd.go/foundation"
 
 	"github.com/gin-gonic/gin"
 	"github.com/gookit/color"

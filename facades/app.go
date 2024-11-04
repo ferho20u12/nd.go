@@ -1,7 +1,7 @@
 package facades
 
 import (
-	"framework-back/nucleo-de-diagnostico/foundation"
+	"github.com/ferho20u12/nd.go/foundation"
 )
 
 func App() *foundation.Application {

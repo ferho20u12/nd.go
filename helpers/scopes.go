@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"framework-back/nucleo-de-diagnostico/helpers/structaudit"
+	"github.com/ferho20u12/nd.go/helpers/structaudit"
 
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"

@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"framework-back/nucleo-de-diagnostico/foundation"
+	"github.com/ferho20u12/nd.go/foundation"
 
 	"github.com/gookit/color"
 	"gorm.io/driver/sqlserver"
